@@ -1,6 +1,6 @@
 // Shared n8n webhook client. All key user actions POST here.
 export const N8N_WEBHOOK_URL =
-  "https://chloe-gf-19.app.n8n.cloud/webhook/5b8600e2-8295-4804-a0c1-529aaabba92d";
+  "https://stefan777777.app.n8n.cloud/webhook-test/3939dd77-3c6b-45eb-9e11-3b2b8ff89860";
 
 export type N8nActionType =
   | "signup"
